@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-<img align="left" alt="abhiyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="abhiyan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://twitter.com/abhiyan1998"><img align="left" alt="abhiyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.instagram.com/abhiyan.1/"><img align="left" alt="abhiyan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <br>
 <br>
 
