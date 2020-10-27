@@ -2,7 +2,7 @@
 
 ## I'm a Teenager, Developer, !!
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and play cricket
 
