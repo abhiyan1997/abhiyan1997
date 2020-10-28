@@ -27,10 +27,9 @@
 <a href="https://github.com/abhiyan1997"><img align="left" alt="Pycharm" width="30px" src="https://w7.pngwing.com/pngs/929/444/png-transparent-pycharm-integrated-development-environment-python-intellij-idea-computer-programming-restart-miscellaneous-angle-text.png" /> </a>
 <br />
 <br />
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="abhiyan1997 GitHub Stats" src="https://github-readme-stats.abhiyan1997.vercel.app/api?username=abhiyan1997&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abhiyan1997&show_icons=true&hide_border=true" />
 
 </details>
