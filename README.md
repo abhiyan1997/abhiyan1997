@@ -3,7 +3,6 @@
 ### I am Just a Teenager Kid Who Code. !!
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and play cricket
 
 ### Connect with me:
