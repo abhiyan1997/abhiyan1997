@@ -1,6 +1,6 @@
 ### Hi there, I'm Abhiyan  👋
 
-### I am Just a Teenager Kid Who Code. !!
+### I am Just a Teenager Who Codes. !!
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I love to code and play cricket
