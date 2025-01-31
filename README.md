@@ -1,7 +1,7 @@
 ### Hi there, I'm Abhiyan  👋
 
 ### I am Just a Teenager Who Codes. !!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning PHP and MYSQL
 - 👯 I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I love to code and play cricket
 
@@ -28,6 +28,5 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abhiyan1997&show_icons=true&hide_border=true" />
-
+  ![abhiyan1997's Stats](https://github-readme-stats.vercel.app/api?username=abhiyan1997&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 </details>
